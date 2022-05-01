@@ -1,2 +1,2 @@
-# yarn-notes
-2 cents of yarn
+# hadoop-notes
+my 2 cents of learning hadoop
